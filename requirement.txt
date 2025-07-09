@@ -1,0 +1,5 @@
+ultralytics==8.0.192
+opencv-python
+torch
+scipy
+deep_sort_realtime
